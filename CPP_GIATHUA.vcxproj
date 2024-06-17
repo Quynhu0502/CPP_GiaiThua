@@ -24,6 +24,7 @@
     <ProjectGuid>{13aa5855-f625-47a5-945e-9cadb2f7639a}</ProjectGuid>
     <RootNamespace>CPPGIATHUA</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>CPP_GIAITHUA</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
