@@ -23,5 +23,18 @@ int main()
 		j++;
 	}
 	cout << "giai thua" << so << "!=" << gt;
+
+	cout << "\n su dung do while\n";
+	gt = 1;
+	int k = 1;
+	do
+	{
+		gt *= k;
+		k ++;
+
+
+	} while (k <= so);
+	cout << "giai thua" << so << "!=" << gt;
+
 	return 0;
 }
